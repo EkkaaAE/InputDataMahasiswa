@@ -1,0 +1,20 @@
+[
+    {
+        "username": "111",
+        "nim": "11",
+        "email": "1111",
+        "noHp": "11111"
+    },
+    {
+        "username": "aaa",
+        "nim": "aaa",
+        "email": "aaa",
+        "noHp": "aaa"
+    },
+    {
+        "username": "bbb",
+        "nim": "bbb",
+        "email": "bbb",
+        "noHp": "bbb"
+    }
+]
